@@ -1,7 +1,7 @@
 Empirical Pizza Incoporated deals on making and selling pizza to the public. It is a private owned incoporation.
 Below is a Sales Analysis of Empirical Pizza carried out by Okechukwu Kene as a Data Analyst for the year 2023.
 Another objective is to make data-driven recommendations to the organisation on improving its sales.
-# Insights from the Analysis
+#Insights from the Analysis
 ## Period for Analysis is 2023
 ## Total Sales to Date
 ## Total Order to Date

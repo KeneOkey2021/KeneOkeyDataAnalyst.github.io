@@ -1,7 +1,7 @@
 <h1> Empirical Pizza Incoporated deals on making and selling pizza to the public. It is a private owned incoporation. </h1>
 Below is a Sales Analysis of Empirical Pizza carried out by Okechukwu Kene as a Data Analyst for the year 2023.
 Another objective is to make data-driven recommendations to the organisation on improving its sales.
-#Insights from the Analysis
+#     Insights from the Analysis
 ## Period for Analysis is 2023
 ## Total Sales to Date
 ## Total Order to Date
@@ -14,10 +14,19 @@ Another objective is to make data-driven recommendations to the organisation on 
 ###### The summer season turned to be the period pizza was sought after in all 4 seasons. 
 
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# My GitHub Project
 
+## Introduction
+
+Welcome to my awesome project!
+
+<span style="font-size: larger;">This is larger text.</span>
+
+### Features
+
+- Feature 1
+- Feature 2
+
+## Getting Started
+
+Follow these steps to get started with the project.

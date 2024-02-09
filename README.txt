@@ -11,5 +11,5 @@ Another objective is to make data-driven recommendations to the organisation on 
 # Summary
 ## From the screengrab below, the Chicken Pizza category is the most sought after across all seasons while the Veggie category was the least sought after.
 ## The peak sales mostly occured in the afternoon wwhile the lowest selling time was in the mornining hours.
-## The summer season turned to be the period pizza was sought after in all 4 seasons. 
+###### The summer season turned to be the period pizza was sought after in all 4 seasons. 
 
